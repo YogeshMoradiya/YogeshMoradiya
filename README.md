@@ -106,9 +106,8 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/yogeshmoradiya2003/
+- 💼 LinkedIn: https://www.linkedin.com/in/yogesh-moradiya-119171308
 - 📧 Email: yogeshmoradiya2003@gmail.com
-- 🌍 Portfolio: (Add your Gamma link here)
 
 ---
 
