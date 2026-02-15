@@ -146,15 +146,6 @@ I focus on writing production-ready, maintainable and scalable code while delive
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YogeshMoradiya&theme=tokyonight"/>
 </p>
-
----
-
-# 🐍 Contribution Activity
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/YogeshMoradiya/YogeshMoradiya/output/github-contribution-grid-snake.svg"/>
-</p>
-
 ---
 
 # 🌐 Connect With Me
