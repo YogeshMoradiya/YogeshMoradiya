@@ -139,19 +139,13 @@ I focus on writing production-ready, maintainable and scalable code while delive
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YogeshMoradiya&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshMoradiya&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YogeshMoradiya&theme=tokyonight"/>
 </p>
----
 
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/yogeshmoradiya2003/">
+<a href="https://www.linkedin.com/in/yogesh-moradiya-119171308">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:yogeshmoradiya2003@gmail.com">
