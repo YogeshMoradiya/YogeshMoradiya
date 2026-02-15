@@ -47,8 +47,6 @@ I focus on writing production-ready, maintainable and scalable code while delive
 <img src="https://skillicons.dev/icons?i=flutter,dart,android,html,css" />
 </p>
 
----
-
 ## 🔥 Backend & Database
 
 <p align="center">
@@ -61,8 +59,6 @@ I focus on writing production-ready, maintainable and scalable code while delive
 <img src="https://img.shields.io/badge/Realtime_DB-FFA000?style=for-the-badge"/>
 </p>
 
----
-
 ## 🧠 Architecture & State Management
 
 <p align="center">
@@ -71,7 +67,6 @@ I focus on writing production-ready, maintainable and scalable code while delive
 <img src="https://img.shields.io/badge/GetX-8E24AA?style=for-the-badge"/>
 </p>
 
----
 
 ## 🛠 Tools & DevOps
 
@@ -92,8 +87,6 @@ I focus on writing production-ready, maintainable and scalable code while delive
 ✔ Download Support (Web)  
 ✔ Firebase Integration  
 
----
-
 ## 🍽 Restaurant Management System
 
 ✔ Owner Login  
@@ -103,8 +96,6 @@ I focus on writing production-ready, maintainable and scalable code while delive
 ✔ Firestore Database  
 ✔ Responsive UI  
 
----
-
 ## 🎵 Offline Music Player
 
 ✔ Local Audio Fetch  
@@ -113,7 +104,6 @@ I focus on writing production-ready, maintainable and scalable code while delive
 ✔ Smooth UI  
 ✔ Background Playback  
 
----
 
 ## ❌⭕ Tic Tac Toe Game
 
@@ -121,8 +111,6 @@ I focus on writing production-ready, maintainable and scalable code while delive
 ✔ Grid Size Selection  
 ✔ Facebook & AdMob Ads  
 ✔ Modern UI  
-
----
 
 # ⚙️ Development Philosophy
 
@@ -141,6 +129,8 @@ I focus on writing production-ready, maintainable and scalable code while delive
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YogeshMoradiya&theme=tokyonight"/>
 </p>
+
+---
 
 # 🌐 Connect With Me
 
