@@ -14,7 +14,7 @@
 
 <!-- 💻 Premium Coding GIF -->
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="450"/>
 </p>
 
 ---
@@ -52,7 +52,7 @@ I focus on writing production-ready, maintainable and scalable code while delive
 ## 🔥 Backend & Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=firebase" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width = "60" />
 </p>
 
 <p align="center">
