@@ -3,57 +3,48 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f2027,50:203a43,100:2c5364&text=Yogesh%20Moradiya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Application%20Developer%20"/>
 </p>
 
----
-
 <!-- 🔥 Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Flutter+Developer;Android+iOS+%26+Web+App+Builder;BLoC+Architecture+Specialist;Firebase+Backend+Integration+Expert;Building+Scalable+Production+Ready+Apps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Flutter+Developer;Android+iOS+%26+Web+App+Builder;BLoC+Architecture;Firebase+Backend+Integration+Expert;Building+Scalable+Production+Ready+Apps" />
 </p>
-
----
 
 <!-- 💻 Premium Coding GIF -->
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="450"/>
 </p>
 
----
-
 # 👨‍💻 Summary
 
-Experienced **Flutter Application Developer** with strong expertise in building scalable cross-platform mobile and web applications using Flutter and Dart.
+Experienced **Flutter & Android Application Developer** with strong expertise in building scalable cross-platform mobile and web applications using Flutter and Dart.
 
-Specialized in:
+### 🚀 Specialized In:
 
-- Clean Architecture
-- BLoC State Management
-- Firebase Authentication & Firestore
-- Android, iOS & Flutter Web
-- REST API Integration
-- Performance Optimization
+- Clean Architecture  
+- BLoC State Management (Preferred)  
+- Firebase Authentication & Firestore  
+- Android (Kotlin) Development  
+- Flutter Web Applications  
+- REST API Integration  
+- Performance Optimization  
 
-I focus on writing production-ready, maintainable and scalable code while delivering modern UI/UX experiences.
+I focus on writing **production-ready, maintainable, and scalable code** while delivering modern UI/UX experiences.
 
 📍 India  
 📧 yogeshmoradiya2003@gmail.com  
 
----
 
 # 🚀 Complete Tech Stack
 
 ## 🟢 Mobile & Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,android,html,css" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,html,css" />
 </p>
 
 ## 🔥 Backend & Database
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width = "60" />
-</p>
-
-<p align="center">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Firebase_Auth-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Realtime_DB-FFA000?style=for-the-badge"/>
@@ -63,58 +54,88 @@ I focus on writing production-ready, maintainable and scalable code while delive
 
 <p align="center">
 <img src="https://img.shields.io/badge/BLoC-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Provider-1E88E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GetX-8E24AA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Repository_Pattern-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Feature_Based_Structure-2196F3?style=for-the-badge"/>
 </p>
 
 
 ## 🛠 Tools & DevOps
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
 </p>
 
----
 
 # 💼 Featured Projects
 
-## 📄 PDF Converter App (Flutter Web + Mobile)
+## 🚀 Open Source Flutter Packages
 
-✔ Word to PDF  
-✔ Image to PDF  
-✔ PDF to Word  
-✔ Compression Tool  
-✔ Download Support (Web)  
-✔ Firebase Integration  
-
-## 🍽 Restaurant Management System
-
-✔ Owner Login  
-✔ Add / Update Menu  
-✔ Order Management  
-✔ Auto Bill Generation  
-✔ Firestore Database  
-✔ Responsive UI  
-
-## 🎵 Offline Music Player
-
-✔ Local Audio Fetch  
-✔ Search Feature  
-✔ BLoC Pattern  
-✔ Smooth UI  
-✔ Background Playback  
+### ✨ [flutter_animated_loader](https://github.com/YogeshMoradiya/flutter_animated_loader)
+Beautiful, customizable loading animations for Flutter apps.  
+✔ Plug & Play  
+✔ Lightweight  
+✔ Production Ready  
 
 
-## ❌⭕ Tic Tac Toe Game
+### 🌊 [raindrop_animated_splash_screen](https://github.com/YogeshMoradiya/raindrop_animated_splash_screen)
+Animated splash screen package with custom duration and smooth navigation.
 
-✔ AI Levels (Easy / Medium / Hard)  
-✔ Grid Size Selection  
-✔ Facebook & AdMob Ads  
-✔ Modern UI  
+
+### 💫 [glow_avatar](https://github.com/YogeshMoradiya/glow_avatar)
+Modern glowing circular avatar widget for Flutter UI.
+
+
+## 📱 Advanced Flutter Applications
+
+### 📄 [pdf_convert_app](https://github.com/YogeshMoradiya/pdf_convert_app)
+PDF Utility App (Web + Mobile)  
+✔ Word → PDF  
+✔ Image → PDF  
+✔ PDF → Word  
+✔ Web Download Support  
+✔ BLoC Architecture  
+
+
+### 📞 [flutter_contact_app](https://github.com/YogeshMoradiya/flutter_contact_app)
+Contact Management App with Firebase integration.
+
+
+### 🎵 [music_app](https://github.com/YogeshMoradiya/music_app)
+Offline music player with smooth UI and optimized performance.
+
+
+### ❌⭕ [tic-tac-toe-flutter](https://github.com/YogeshMoradiya/tic-tac-toe-flutter)
+Advanced Flutter Tic Tac Toe game with AI logic.
+
+
+### 🧩 [number_puzzle_flutter](https://github.com/YogeshMoradiya/number_puzzle_flutter)
+Interactive number puzzle game with custom UI.
+
+
+### 🖼 [flutter_wallpaper_app](https://github.com/YogeshMoradiya/flutter_wallpaper_app)
+Wallpaper browsing app using Flutter & Firebase.
+
+
+### 🧪 [Flutter_Widget_App](https://github.com/YogeshMoradiya/Flutter_Widget_App)
+Comprehensive Flutter widgets demonstration app.
+
+
+
+## 🤖 Android (Kotlin) Applications
+
+- 🧮 [Calculator-App](https://github.com/YogeshMoradiya/Calculator-App)  
+- 📱 [Contact-App](https://github.com/YogeshMoradiya/Contact-App) (SQLite)  
+- 🛒 [Ecommerce-App](https://github.com/YogeshMoradiya/Ecommerce-App) (Firebase)  
+- 🧩 [Math-Puzzle-Game](https://github.com/YogeshMoradiya/Math-Puzzle-Game)  
+- 💬 [Shayri-App](https://github.com/YogeshMoradiya/Shayri-App)  
+- 🎮 [Tic-Tac-Toe-Game-App](https://github.com/YogeshMoradiya/Tic-Tac-Toe-Game-App)  
+- 🔢 [NumberPuzzleApp](https://github.com/YogeshMoradiya/NumberPuzzleApp)  
+
+
 
 # ⚙️ Development Philosophy
 
-✔ Clean Code  
+✔ Clean & Maintainable Code  
 ✔ BLoC Preferred Architecture  
 ✔ Reusable Components  
 ✔ Scalable Folder Structure  
@@ -122,15 +143,19 @@ I focus on writing production-ready, maintainable and scalable code while delive
 ✔ Performance Optimized Apps  
 ✔ Cross Platform Compatibility  
 
----
+
 
 # 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YogeshMoradiya&show_icons=true&theme=tokyonight"/>
+</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YogeshMoradiya&theme=tokyonight"/>
 </p>
 
----
+
 
 # 🌐 Connect With Me
 
@@ -142,7 +167,5 @@ I focus on writing production-ready, maintainable and scalable code while delive
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
-
----
 
 ⭐ From [YogeshMoradiya](https://github.com/YogeshMoradiya)
