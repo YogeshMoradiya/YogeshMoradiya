@@ -99,10 +99,8 @@ PDF Utility App (Web + Mobile)
 ### 📞 [flutter_contact_app](https://github.com/YogeshMoradiya/flutter_contact_app)
 Contact Management App with Firebase integration.
 
-
-### 🎵 [music_app](https://github.com/YogeshMoradiya/music_app)
+### <img src="https://github.com/user-attachments/assets/45f3caa4-2c83-4145-a313-5a13ad605113" width="30"/> [music_app](https://github.com/YogeshMoradiya/music_app)
 Offline music player with smooth UI and optimized performance.
-
 
 ### ❌⭕ [tic-tac-toe-flutter](https://github.com/YogeshMoradiya/tic-tac-toe-flutter)
 Advanced Flutter Tic Tac Toe game with AI logic.
